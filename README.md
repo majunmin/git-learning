@@ -1,3 +1,3 @@
 # git-learning
 
-learning git command
+learning git command 
